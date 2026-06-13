@@ -8,7 +8,7 @@ return(
 <h1>Welcome Home</h1>
 
 <Link to="/login">
-Go to Login
+Go to Login Page
 </Link>
 
 </div>

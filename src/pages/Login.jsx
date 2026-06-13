@@ -53,7 +53,7 @@ function Login() {
            <button type="submit" className="btn btn-primary"
             onClick={loginExecution}>Login</button>
 
-                  <Link to="/">Already have an account? home</Link>
+                  <Link to="/">Already have an account? Click here to go home</Link>
         </div>
         </>
     )
